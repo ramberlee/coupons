@@ -52,6 +52,13 @@
             "treeShaking" : {
                 "enable" : true
             }
+        },
+        "domain" : "",
+        "devServer" : {
+            "https" : false
+        },
+        "router" : {
+            "base" : "./"
         }
     }
 }
